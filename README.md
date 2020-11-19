@@ -1,2 +1,2 @@
 # hello-world
-Set up for class
+I'm 21, currently studying Cyber security, and i have a cat.
